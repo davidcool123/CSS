@@ -35,7 +35,7 @@ caption {
 }
 
 h1{
-    background-color: red;
+    background-color: darkcyan;
     font-size: 3.5em;
     color: purple;
     text-align: center;
@@ -43,7 +43,7 @@ h1{
 }
 
 h2{
-    background-color: blue;
+    background-color: darkseagreen;
     font-size: 1.7em;
     font-family: "Lucida Console", "Courier New", monospace;
     text-transform: uppercase;
@@ -51,7 +51,7 @@ h2{
 }
 
 p{
-    background-color: green;
+    background-color: bisque;
     font-size: 1.2em;
     font-family: cursive;
     line-height: 160%;}
@@ -60,11 +60,19 @@ ol{
     background-color: grey;
 }
 li{
-    background-color: orange;
+    background-color: firebrick;
     font-family:fantasy;
     font-weight: bold;
     font-style: italic;
 }
 table {
     background-color: aqua;;
+}
+
+#schedule {
+    background-color: chocolate;
+}
+
+.main-text{
+    background-color: lightblue;
 }
