@@ -76,3 +76,39 @@ table {
 .main-text{
     background-color: lightblue;
 }
+
+li:first-child{
+    font-weight:bolder;
+}
+
+li:last-child{
+    font-style:italic;
+}
+
+li:first-child{
+    color:lightblue;
+}
+
+h2:first-child{
+    color: aqua;
+}
+
+li:nth-child(even){
+    color: blueviolet;
+}
+
+li:nth-child(odd){
+    color: indianred;
+}
+
+a:hover{
+    color: gold;
+}
+
+a:visited{
+    color: indigo;
+}
+
+li:nth-child(3){
+    color: darkseagreen;
+}
