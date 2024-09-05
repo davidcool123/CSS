@@ -112,3 +112,19 @@ a:visited{
 li:nth-child(3){
     color: darkseagreen;
 }
+
+.cool{
+    color: red;
+}
+
+#second{
+    color: blueviolet;
+}
+
+.dark {
+    color: indigo;
+    background-color: chocolate;
+}
+#first{
+    color: indianred;
+}
